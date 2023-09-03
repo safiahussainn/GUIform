@@ -1,0 +1,7 @@
+ 1            testrun        10           Gauge 1        11.2 
+ 2            test2          13.94        Gauge 1        15.6128 
+ 123          name           35           Gauge 2        61.6 
+ 54544        n              12.24        Gauge 1        13.7088 
+ 2467         name           13.94        Gauge 1        15.6128 
+ 1            john           49           Gauge 2        86.24 
+ 123          abc            12           Gauge 1        13.44 
